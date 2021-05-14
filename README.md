@@ -11,7 +11,7 @@ _|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""|
 
 -  Twitter:    https://twitter.com/elonliar
 -  Github:     https://github.com/elonliar/ElonLiar 
--  BSC Token:  [0xb2635bb9e904e6ebc96bc9b52d5fd5c348ed9be9](https://bscscan.com/address/0xb2635bb9e904e6ebc96bc9b52d5fd5c348ed9be9)  
+-  BSC Token:  [0xb2635bb9e904e6ebc96bc9b52d5fd5c348ed9be9](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xb2635bb9e904e6ebc96bc9b52d5fd5c348ed9be9)  
   
 The `ELONLIAR` token is telling the crypto world that Elon Musk is just a liar!
 
@@ -22,7 +22,7 @@ occur during each trade: Reflection, LP Acquisition, and Burn.
 ELONLIAR is a community driven and fair launch token.
 
 ## Automatic LP
-Every trade contributes toward automatically generating liquidity locked inside PancakeSwap.
+Every trade contributes toward automatically generating liquidity locked inside [PancakeSwap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xb2635bb9e904e6ebc96bc9b52d5fd5c348ed9be9).
 
 ## Coin Rewards
 Holders earn passive rewards through static reflection while watching their balance of $ELONLIAR grow indefinitely.
@@ -30,6 +30,8 @@ Holders earn passive rewards through static reflection while watching their bala
 ## Coin Rocket
 `1M Holders` achievement we're going to accomplish in only 99 days! Our community is relentless and cannot be stopped.
 
+
+[Ready? To the moooooooooon](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xb2635bb9e904e6ebc96bc9b52d5fd5c348ed9be9)
 ----
 ![elonliar](https://user-images.githubusercontent.com/67900306/118301549-ca6cca00-b515-11eb-8649-f39869234949.jpg)
 
