@@ -30,7 +30,7 @@ Holders earn passive rewards through static reflection while watching their bala
 ## Coin Rocket
 `1M Holders` achievement we're going to accomplish in only 99 days! Our community is relentless and cannot be stopped.
 
-
+----
 ![elonliar](https://user-images.githubusercontent.com/67900306/118301549-ca6cca00-b515-11eb-8649-f39869234949.jpg)
 
 Elon Musk said cryptocurrency could "not come at great cost to the environment"
