@@ -19,13 +19,13 @@ Fork from $SafeMoon and $ASS: The SafeMoon Protocol is a community driven, fair 
 occur during each trade: Reflection, LP Acquisition, and Burn.
 
 ## Community Driven
-Australian Safe Shepherd is a community driven and fair launch token.
+ELONLIAR is a community driven and fair launch token.
 
 ## Automatic LP
 Every trade contributes toward automatically generating liquidity locked inside PancakeSwap.
 
 ## Coin Rewards
-Holders earn passive rewards through static reflection while watching their balance of $ASS grow indefinitely.
+Holders earn passive rewards through static reflection while watching their balance of $ELONLIAR grow indefinitely.
 
 ## Coin Rocket
 `1M Holders` achievement we're going to accomplish in only 99 days! Our community is relentless and cannot be stopped.
